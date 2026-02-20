@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>ToDoDash</title>
+</head>
+<body>
+    <div class="add">
+        <input type="text" id="input" placeholder="Add a task...">
+        <br>
+        <input type="text" id="description" placeholder="Add a description...">
+        <br>
+        <p style="display: inline;">Choose a color:</p>
+        <input type="color" id="colorPicker" value="#ff0000">
+        <br>
+        <button id="addButton" onclick="addTask()">Add</button>
+    </div>
+
+    <div class="tasklist">
+    </div>
+</body>
+</html>
+
+<script src="script.js"></script>
