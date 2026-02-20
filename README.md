@@ -7,3 +7,5 @@ Use it here: https://swedishpotat0.github.io/ToDo/
 Add the abillity to save and load lists
 
 Add the ability to remove tasks
+
+Add mobile friendly layout
