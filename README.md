@@ -2,7 +2,7 @@ This is just a simple webbpage whit a simple to do list to help to keep track of
 
 Use it here: https://swedishpotat0.github.io/ToDo/
 
-##Thigs to do:
+## Thigs to do:
 
 Add the abillity to save and load lists
 
